@@ -153,27 +153,6 @@ Designed and developed a responsive developer portfolio using React.js to showca
 
 ---
 
-# 🎯 Current Goals
-
-```yaml
-2026_goals:
-  - Land a Python Developer Role
-  - Build Scalable SaaS Applications
-  - Contribute to Open Source
-```
-
----
-
-# 📝 Quote
-
-<div align="center">
-
-### "First, solve the problem. Then, write the code."
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
